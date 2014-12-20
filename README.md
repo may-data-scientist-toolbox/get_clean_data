@@ -25,6 +25,9 @@ The code does the following:
 * Extracts the mean values of each measurement for each subject and activity group.
 * Writes the final result into a text file 'tidy_data.txt'
 
+*** Important note: codebook.pdf ***
+To read to code book please use 'view raw'.
+
 
 
    
